@@ -1,0 +1,11 @@
+# virtual environment
+venv
+
+# compiled files
+.pyc
+
+# IDE
+.idea
+
+# OS
+.DS_Store
